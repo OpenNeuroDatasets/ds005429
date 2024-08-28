@@ -1,0 +1,20 @@
+{
+	"EEGChannelCount":64,
+	"EEGReference":"forhead",
+	"InstitutionName":"University of Milan",
+	"InstitutionalDepartmentName":"Department of Biomedical and Clinical Sciences",
+	"Instructions":"Concentrate on the sounds and count the number of global deviants.",
+	"PowerLineFrequency":50,
+	"RecordingDuration":881.76,
+	"SamplingFrequency":2500,
+	"SoftwareFilters":{
+		"HighPassFilter":{
+			"cutoff":"0.1 (Hz)"
+		},
+		"LowPassFilter":{
+			"cutoff":"250 (Hz)"
+		}
+	},
+	"TaskDescription":"Stimuli consisted of quintlets that could be standards or deviants on the local/global level depending on block type.",
+	"TaskName":"LocalGlobal"
+}
