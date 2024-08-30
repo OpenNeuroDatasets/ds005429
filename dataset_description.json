@@ -20,5 +20,6 @@
     "ReferencesAndLinks": [
         "Rutiku, R., Fiscone, C., Massimini, M., & Sarasso, S. (2024). Assessing mismatch negativity (MMN) and P3b within‐individual sensitivity — A comparison between the local–global paradigm and two specialized oddball sequences. European Journal of Neuroscience, 59(5), 842-859."
     ],
-    "HowToAcknowledge": "Please cite: \nRutiku, R., Fiscone, C., Massimini, M., & Sarasso, S. (2024). Assessing mismatch negativity (MMN) and P3b within‐individual sensitivity — A comparison between the local–global paradigm and two specialized oddball sequences. European Journal of Neuroscience, 59(5), 842-859."
+    "HowToAcknowledge": "Please cite: \nRutiku, R., Fiscone, C., Massimini, M., & Sarasso, S. (2024). Assessing mismatch negativity (MMN) and P3b within‐individual sensitivity — A comparison between the local–global paradigm and two specialized oddball sequences. European Journal of Neuroscience, 59(5), 842-859.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005429.v1.0.0"
 }
