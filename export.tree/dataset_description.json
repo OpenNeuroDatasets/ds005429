@@ -1,0 +1,25 @@
+{
+    "Name": "Auditory oddball comparison (Optimum-1, Learning-oddball, and the local–global paradigm)",
+    "BIDSVersion": "1.8",
+    "DatasetType": "raw",
+    "GeneratedBy": [
+        {
+            "Name": "FieldTrip",
+            "Version": "20240214",
+            "Description": "data2bids converter",
+            "URI": "https://www.fieldtriptoolbox.org"
+        }
+    ],
+    "License": "CC0",
+    "Authors": [
+        "Renate Rutiku",
+        "Chiara Fiscone",
+        "Marcello Massimini",
+        "Simone Sarasso"
+    ],
+    "ReferencesAndLinks": [
+        "Rutiku, R., Fiscone, C., Massimini, M., & Sarasso, S. (2024). Assessing mismatch negativity (MMN) and P3b within‐individual sensitivity — A comparison between the local–global paradigm and two specialized oddball sequences. European Journal of Neuroscience, 59(5), 842-859."
+    ],
+    "HowToAcknowledge": "Please cite: \nRutiku, R., Fiscone, C., Massimini, M., & Sarasso, S. (2024). Assessing mismatch negativity (MMN) and P3b within‐individual sensitivity — A comparison between the local–global paradigm and two specialized oddball sequences. European Journal of Neuroscience, 59(5), 842-859.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005429.v1.0.0"
+}

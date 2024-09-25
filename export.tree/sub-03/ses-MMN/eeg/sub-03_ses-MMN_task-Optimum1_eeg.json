@@ -1,0 +1,20 @@
+{
+	"EEGChannelCount":64,
+	"EEGReference":"forhead",
+	"InstitutionName":"University of Milan",
+	"InstitutionalDepartmentName":"Department of Biomedical and Clinical Sciences",
+	"Instructions":"Concentrate on the movie and do not pay any attention to the sounds.",
+	"PowerLineFrequency":50,
+	"RecordingDuration":822.6,
+	"SamplingFrequency":2500,
+	"SoftwareFilters":{
+		"HighPassFilter":{
+			"cutoff":"0.1 (Hz)"
+		},
+		"LowPassFilter":{
+			"cutoff":"250 (Hz)"
+		}
+	},
+	"TaskDescription":"Stimuli consisted of standard sounds and four different types of deviant sounds. All sounds were separated by a fixed ISI of 500 ms. Standard and deviant sounds were presented alternately.",
+	"TaskName":"Optimum1"
+}

@@ -1,0 +1,20 @@
+{
+	"EEGChannelCount":64,
+	"EEGReference":"forhead",
+	"InstitutionName":"University of Milan",
+	"InstitutionalDepartmentName":"Department of Biomedical and Clinical Sciences",
+	"Instructions":"Concentrate on the sounds and count the number of deviants.",
+	"PowerLineFrequency":50,
+	"RecordingDuration":778.6,
+	"SamplingFrequency":2500,
+	"SoftwareFilters":{
+		"HighPassFilter":{
+			"cutoff":"0.1 (Hz)"
+		},
+		"LowPassFilter":{
+			"cutoff":"250 (Hz)"
+		}
+	},
+	"TaskDescription":"Stimuli consisted of standard sounds and two types of deviant sounds - predictable (every 7th sound) and unpredictable (separated by 2-10 standard sounds). All sounds were separated by a randomly chosen ISI between 800 and 1200 ms.",
+	"TaskName":"LearningOddball"
+}
